@@ -16,7 +16,7 @@
     "primus": "4.0.5",
     "primus-emit": "1.0.0",
     "primus-spark-latency": "0.1.1",
-    "web3": "git://github.com/masterdxy/web3.js.git#12cbf7348f46a1ee7888d6e4bde4b647e34d42e1",
+    "web3": "git+https://github.com/masterdxy/web3.js.git#12cbf7348f46a1ee7888d6e4bde4b647e34d42e1",
     "ws": "^1.0.1"
   },
   "scripts": {
