@@ -14,10 +14,9 @@
       "RPC_HOST"        : "localhost",
       "RPC_PORT"        : "8545",
       "LISTENING_PORT"  : "30303",
-      "INSTANCE_NAME"   : "",
-      "CONTACT_DETAILS" : "",
-      "WS_SERVER"       : "wss://rpc.ethstats.net",
-      "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
+      "INSTANCE_NAME"   : "XXX",
+      "WS_SERVER"       : "ws://127.0.0.1:3000",
+      "WS_SECRET"       : "eth-net-stats-secret",
       "VERBOSITY"       : 2
     }
   }
